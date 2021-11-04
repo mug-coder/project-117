@@ -1,0 +1,13 @@
+#quick_draw_h1{
+    background-color: dodgerblue;
+}
+
+#score{
+    font-size: 33px;
+    margin-left: 900px;
+}
+
+#timer{
+    font-size: 33px;
+    margin-right: 900px;
+}
